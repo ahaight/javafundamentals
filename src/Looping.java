@@ -2,6 +2,7 @@
  * Created by aaronhaight on 7/20/16.
  */
 public class Looping {
+
     public static void main(String[] args) {
         whileLoop();
         doWhile();

@@ -2,6 +2,7 @@
  * Created by aaronhaight on 7/27/16.
  */
 public class Arrays {
+
     public static void main(String[] args) {
 
 //      long way of doing it...

@@ -2,6 +2,7 @@
  * Created by aaronhaight on 7/16/16.
  */
 public class NestedIfs {
+
     public static void main(String[] args) {
         float students = 0.0f;
         float rooms = 4.0f;
